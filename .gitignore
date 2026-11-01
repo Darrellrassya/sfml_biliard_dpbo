@@ -1,0 +1,17 @@
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.dll
+app
+main
+billiard
+build/
+bin/
+*.dSYM/
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/.browse.vc.db*
+.vscode/ipch/
